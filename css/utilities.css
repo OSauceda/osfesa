@@ -1,0 +1,22 @@
+.float-left{
+	float: left;
+}
+.float-right{
+	float:  right;
+}
+.clear{
+	clear: both;
+}
+.inline-block{
+	display: inline-block;
+	vertical-align: top;
+}
+.center-text{
+	text-align: center;
+}
+.rounded-border{
+	border-radius: 5px;
+}
+.center{
+	margin: 0 auto;
+}
