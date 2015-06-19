@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #f0f0f0;
+	font-family: arial;
+	font-size: 20px;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-size: 24px;
+	font-weight: lighter;
+	margin: 0;
+	padding: 0;
+}
+
+p{
+	margin: 0;
+	line-height: 2;
+}
+
+/*Utilidades*/
+
+.inline-block{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.grey-bg{
+	color: grey;
+}
+
+.center-text{
+	text-align: center;
+}
+
+.left-text{
+	text-align: left;
+}
+
+#content {
+	width: 1250px;
+	margin: 0 auto;
+	padding: 0;
+	background: white;
+}
+
+.banner{
+	margin: 40px 0;
+	padding: 0;
+	width: 450px;
+	height: 350px;
+	/*background-color: black;*/
+}
+
+.banner h1,h2,h3,h4,h5,h6 {
+	padding-bottom: 30px;
+}
+
+.content-block{
+	margin: 20px 20px;
+	padding: 50px 0 0 0;
+	width: 625px;
+	height: 350px;
+	/*background-color: black;*/
+}
+
+.content-block h1,h2,h3,h4,h5,h6,p{
+	width: 100%;
+}
