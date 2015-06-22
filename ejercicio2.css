@@ -18,7 +18,7 @@ p{
 	line-height: 2;
 }
 
-/*Utilidades*/
+/*Utilidades*/ 
 
 .inline-block{
 	display: inline-block;
@@ -49,7 +49,6 @@ p{
 	padding: 0;
 	width: 450px;
 	height: 350px;
-	/*background-color: black;*/
 }
 
 .banner h1,h2,h3,h4,h5,h6 {
@@ -61,7 +60,6 @@ p{
 	padding: 50px 0 0 0;
 	width: 625px;
 	height: 350px;
-	/*background-color: black;*/
 }
 
 .content-block h1,h2,h3,h4,h5,h6,p{
